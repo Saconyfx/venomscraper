@@ -99,7 +99,7 @@ You should have received a copy of the GNU General Public License along with thi
 
 # Contributing
 
-Contributions are welcome! If you'd like to contribute to ReconGen Venom, please fork the repository and submit a pull request.
+Contributions are welcome! If you'd like to contribute to Venomscrapper, please fork the repository and submit a pull request.
 
 # Disclaimer
 
