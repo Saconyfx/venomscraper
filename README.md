@@ -10,7 +10,9 @@ A web scraping tool designed to extract various types of data from websites.
 * [Options](#options)
 * [Output](#output)
 * [Troubleshooting](#troubleshooting)
-
+* [License](#license)
+* [Contributing](#contributing)
+* [Disclaimer](#disclaimer)
 
 ## Introduction
 VenomScraper is a command-line web scraping tool written in Bash. It's designed to extract various types of data from websites, including emails, phone numbers, image URLs, website links, file links, video URLs, audio URLs, PDF URLs, CSV URLs, JSON URLs, XML URLs, and social media handles.
