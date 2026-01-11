@@ -1,5 +1,5 @@
 # venomscraper
-A web scraping tool designed to extract various types of data from websites.
+A web scraping tool designed to extract various types of data from a websites.
 
 ## Table of Contents
 * [Introduction](#introduction)
