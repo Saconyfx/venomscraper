@@ -89,7 +89,6 @@ If you encounter any issues while using VenomScraper, try the following:
 * Check the output files for errors
 
 # License
-
 Venomscrapper is released under the GNU General Public License version 3 (GPL-3.0). See the LICENSE file for details.
 
 GPL-3.0 License
